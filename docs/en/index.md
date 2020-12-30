@@ -18,7 +18,7 @@
 * Filter Bar (search as you type)
  
 
-#### Custom actions
+### Custom actions
 
 Custom actions can be created as '*.desktop files' in '~/.local/share/file-manager/actions/'
 
@@ -46,16 +46,17 @@ how to sort them?
 
 * Adding/removing emblems (can be done by custom actions)?
 
-#### Custom folder icons
+### Custom folder icons
 
 From File > Folder Properties or right click on folder > properties: click the icon to change it.
 
-#### Tab features
+### Tab features
 
 * Tab DND (tabs can be dragged from a window and dropped into another)
 * Split view (very helpful, especially when used temporarily with F6)
 * See Help > Hidden Shortcuts for Shortcuts
 
+### Todo
 
 * Adding video, PDF and DjVu thumbnailers.
 
