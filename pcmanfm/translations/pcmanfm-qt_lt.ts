@@ -9,17 +9,17 @@
         <translation>Apie</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="25"/>
+        <location filename="../about.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="48"/>
+        <location filename="../about.ui" line="46"/>
         <source>Lightweight file manager</source>
         <translation>Supaprastinta failų tvarkytuvė</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="122"/>
+        <location filename="../about.ui" line="120"/>
         <source>Programming:
 * Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
 </source>
@@ -28,7 +28,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../about.ui" line="144"/>
+        <location filename="../about.ui" line="142"/>
         <source>PCManFM-Qt File Manager
 
 Copyright (C) 2009 - 2014 洪任諭 (Hong Jen Yee)
@@ -65,22 +65,22 @@ Licencijos kopiją; jeigu jos negavote, rašykite Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="113"/>
+        <location filename="../about.ui" line="111"/>
         <source>Authors</source>
         <translation>Autoriai</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="58"/>
+        <location filename="../about.ui" line="56"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt&quot;&gt;https://github.com/lxqt/pcmanfm-qt&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt&quot;&gt;https://github.com/lxqt/pcmanfm-qt&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="74"/>
+        <location filename="../about.ui" line="72"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wiki: &lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt/wiki&quot;&gt;https://github.com/lxqt/pcmanfm-qt/wiki&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vikis: &lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt/wiki&quot;&gt;https://github.com/lxqt/pcmanfm-qt/wiki&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="135"/>
+        <location filename="../about.ui" line="133"/>
         <source>License</source>
         <translation>Licencija</translation>
     </message>
@@ -93,22 +93,22 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation>Įdėta keičiamoji laikmena</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="33"/>
+        <location filename="../autorun.ui" line="32"/>
         <source>&lt;b&gt;Removable medium is inserted&lt;/b&gt;</source>
         <translation>&lt;b&gt;Yra įdėta keičiamoji laikmena&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="40"/>
+        <location filename="../autorun.ui" line="39"/>
         <source>Type of medium:</source>
         <translation>Laikmenos tipas:</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="47"/>
+        <location filename="../autorun.ui" line="46"/>
         <source>Detecting...</source>
         <translation>Aptinkama...</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="56"/>
+        <location filename="../autorun.ui" line="55"/>
         <source>Please select the action you want to perform:</source>
         <translation>Pasirinkite veiksmą, kurį norėtumėte atlikti:</translation>
     </message>
@@ -237,22 +237,22 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation>Sukurti paleidyklę</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="38"/>
+        <location filename="../desktopentrydialog.ui" line="37"/>
         <source>Name:</source>
         <translation>Pavadinimas:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="45"/>
+        <location filename="../desktopentrydialog.ui" line="44"/>
         <source>Specific name of this launcher.</source>
         <translation>Konkretus šios paleidyklės pavadinimas.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="58"/>
+        <location filename="../desktopentrydialog.ui" line="57"/>
         <source>Description:</source>
         <translation>Aprašas:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="65"/>
+        <location filename="../desktopentrydialog.ui" line="64"/>
         <source>A short description or generic name, like &quot;Web Browser&quot; or &quot;Home Directory&quot;.
 
 It can be left empty.</source>
@@ -261,12 +261,12 @@ It can be left empty.</source>
 Galima palikti tuščią.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="77"/>
+        <location filename="../desktopentrydialog.ui" line="76"/>
         <source>Comment:</source>
         <translation>Komentaras:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="84"/>
+        <location filename="../desktopentrydialog.ui" line="83"/>
         <source>A short comment.
 
 It can be left empty.</source>
@@ -275,79 +275,79 @@ It can be left empty.</source>
 Gali būti paliktas tuščias.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="117"/>
+        <location filename="../desktopentrydialog.ui" line="116"/>
         <source>Command:</source>
         <translation>Komanda:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="133"/>
-        <location filename="../desktopentrydialog.ui" line="164"/>
+        <location filename="../desktopentrydialog.ui" line="132"/>
+        <location filename="../desktopentrydialog.ui" line="163"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="142"/>
+        <location filename="../desktopentrydialog.ui" line="141"/>
         <source>Icon:</source>
         <translation>Piktograma:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="151"/>
+        <location filename="../desktopentrydialog.ui" line="150"/>
         <source>Icon to display in file manager, menus, etc.</source>
         <translation>Piktograma, kuri bus rodoma failų tvarkytuvėje, meniu ir t.t.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="173"/>
-        <location filename="../desktopentrydialog.ui" line="183"/>
+        <location filename="../desktopentrydialog.ui" line="172"/>
+        <location filename="../desktopentrydialog.ui" line="182"/>
         <source>Run in terminal?</source>
         <translation>Paleisti terminale?</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="176"/>
+        <location filename="../desktopentrydialog.ui" line="175"/>
         <source>Terminal:</source>
         <translation>Terminalas:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="186"/>
+        <location filename="../desktopentrydialog.ui" line="185"/>
         <source>Whether the launched program should run in a terminal window.</source>
         <translation>Ar paleista programa turetų pasileisti terminalo lange.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="190"/>
+        <location filename="../desktopentrydialog.ui" line="189"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="195"/>
+        <location filename="../desktopentrydialog.ui" line="194"/>
         <source>Yes</source>
         <translation>Taip</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="203"/>
+        <location filename="../desktopentrydialog.ui" line="202"/>
         <source>Type:</source>
         <translation>Tipas:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="210"/>
+        <location filename="../desktopentrydialog.ui" line="209"/>
         <source>Whether this is a link or executes a command.</source>
         <translation>Ar tai yra nuoroda, ar komandos paleidimas.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="214"/>
+        <location filename="../desktopentrydialog.ui" line="213"/>
         <source>Application</source>
         <translation>Programa</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="219"/>
+        <location filename="../desktopentrydialog.ui" line="218"/>
         <source>Link</source>
         <translation>Nuoroda</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="96"/>
+        <location filename="../desktopentrydialog.ui" line="95"/>
         <source>Categories:</source>
         <translation>Kategorijos:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="103"/>
+        <location filename="../desktopentrydialog.ui" line="102"/>
         <source>Semicolon separated categories in which the entry should be shown if it is used by the DE&apos;s main menu (e.g., when put inside ~/.local/share/applications).
 
 It is needed only when you want to use the created file in the main menu. Otherwise, you could leave it empty.
@@ -597,7 +597,7 @@ numatytoji failų tvarkytuvė.</translation>
         <translation> minutė(-ių)</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="669"/>
+        <location filename="../desktop-preferences.ui" line="666"/>
         <source>Do not show file tooltips</source>
         <translation>Nerodyti failų paaiškinimų</translation>
     </message>
@@ -622,17 +622,17 @@ numatytoji failų tvarkytuvė.</translation>
         <translation>Namai</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="637"/>
+        <location filename="../desktop-preferences.ui" line="636"/>
         <source>Trash</source>
         <translation>Šiukšlinė</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="648"/>
+        <location filename="../desktop-preferences.ui" line="646"/>
         <source>Computer</source>
         <translation>Kompiuteris</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="659"/>
+        <location filename="../desktop-preferences.ui" line="656"/>
         <source>Network</source>
         <translation>Tinklas</translation>
     </message>
@@ -812,700 +812,700 @@ numatytoji failų tvarkytuvė.</translation>
         <translation>Failų tvarkytuvė</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="81"/>
+        <location filename="../main-win.ui" line="80"/>
         <source>Recent F&amp;iles</source>
         <translation>Paskiausi f&amp;ailai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="143"/>
+        <location filename="../main-win.ui" line="141"/>
         <source>&amp;Toolbars</source>
         <translation>Įrankių juos&amp;tos</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="150"/>
+        <location filename="../main-win.ui" line="148"/>
         <source>Path &amp;Bar</source>
         <translation>&amp;Kelio juosta</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="157"/>
+        <location filename="../main-win.ui" line="155"/>
         <source>&amp;Filtering</source>
         <translation>&amp;Filtravimas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="232"/>
+        <location filename="../main-win.ui" line="230"/>
         <source>&amp;Tools</source>
         <translation>Į&amp;rankiai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="291"/>
+        <location filename="../main-win.ui" line="288"/>
         <source>Go &amp;Up</source>
         <translation>Eiti a&amp;ukštyn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="294"/>
+        <location filename="../main-win.ui" line="291"/>
         <source>Go Up</source>
         <translation>Eiti aukštyn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="297"/>
+        <location filename="../main-win.ui" line="294"/>
         <source>Alt+Up</source>
         <translation>Alt+Aukštyn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="306"/>
+        <location filename="../main-win.ui" line="302"/>
         <source>&amp;Home</source>
         <translation>&amp;Namai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="309"/>
+        <location filename="../main-win.ui" line="305"/>
         <source>Alt+Home</source>
         <translation>Alt+Home</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="318"/>
+        <location filename="../main-win.ui" line="313"/>
         <source>&amp;Reload</source>
         <translation>Į&amp;kelti iš naujo</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="321"/>
+        <location filename="../main-win.ui" line="316"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="330"/>
+        <location filename="../main-win.ui" line="324"/>
         <source>Go</source>
         <translation>Pereiti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="339"/>
+        <location filename="../main-win.ui" line="332"/>
         <source>Quit</source>
         <translation>Išeiti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="348"/>
+        <location filename="../main-win.ui" line="340"/>
         <source>&amp;About</source>
         <translation>&amp;Apie</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="357"/>
+        <location filename="../main-win.ui" line="348"/>
         <source>&amp;New Window</source>
         <translation>&amp;Naujas langas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="360"/>
+        <location filename="../main-win.ui" line="351"/>
         <source>New Window</source>
         <translation>Naujas langas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="363"/>
+        <location filename="../main-win.ui" line="354"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="371"/>
+        <location filename="../main-win.ui" line="362"/>
         <source>Show &amp;Hidden</source>
         <translation>Rodyti &amp;paslėptus</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="374"/>
+        <location filename="../main-win.ui" line="365"/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="383"/>
+        <location filename="../main-win.ui" line="373"/>
         <source>&amp;Computer</source>
         <translation>&amp;Kompiuteris</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="392"/>
+        <location filename="../main-win.ui" line="381"/>
         <source>&amp;Trash</source>
         <translation>Š&amp;iukšlinė</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="397"/>
+        <location filename="../main-win.ui" line="386"/>
         <source>&amp;Network</source>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="406"/>
+        <location filename="../main-win.ui" line="394"/>
         <source>&amp;Desktop</source>
         <translation>&amp;Darbalaukis</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="415"/>
+        <location filename="../main-win.ui" line="402"/>
         <source>&amp;Add to Bookmarks</source>
         <translation>Įtr&amp;aukti į žymeles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="420"/>
+        <location filename="../main-win.ui" line="407"/>
         <source>&amp;Applications</source>
         <translation>Pro&amp;gramos</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="425"/>
+        <location filename="../main-win.ui" line="412"/>
         <source>Reload</source>
         <translation>Įkelti iš naujo</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="433"/>
+        <location filename="../main-win.ui" line="420"/>
         <source>&amp;Icon View</source>
         <translation>&amp;Piktogramų rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="436"/>
+        <location filename="../main-win.ui" line="423"/>
         <source>Ctrl+Shift+1</source>
         <translation>Ctrl+Shift+1</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="444"/>
+        <location filename="../main-win.ui" line="431"/>
         <source>&amp;Compact View</source>
         <translation>&amp;Glaustas rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="447"/>
+        <location filename="../main-win.ui" line="434"/>
         <source>Ctrl+Shift+3</source>
         <translation>Ctrl+Shift+3</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="455"/>
+        <location filename="../main-win.ui" line="442"/>
         <source>&amp;Detailed List</source>
         <translation>&amp;Išsamaus sąrašo rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="458"/>
+        <location filename="../main-win.ui" line="445"/>
         <source>Ctrl+Shift+4</source>
         <translation>Ctrl+Shift+4</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="466"/>
+        <location filename="../main-win.ui" line="453"/>
         <source>&amp;Thumbnail View</source>
         <translation>&amp;Miniatiūrų rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="469"/>
+        <location filename="../main-win.ui" line="456"/>
         <source>Ctrl+Shift+2</source>
         <translation>Ctrl+Shift+2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="478"/>
+        <location filename="../main-win.ui" line="464"/>
         <source>Cu&amp;t</source>
         <translation>Iškirp&amp;ti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="481"/>
+        <location filename="../main-win.ui" line="467"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="490"/>
+        <location filename="../main-win.ui" line="475"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopijuoti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="493"/>
+        <location filename="../main-win.ui" line="478"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="502"/>
+        <location filename="../main-win.ui" line="486"/>
         <source>&amp;Paste</source>
         <translation>Į&amp;dėti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="505"/>
+        <location filename="../main-win.ui" line="489"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="514"/>
+        <location filename="../main-win.ui" line="497"/>
         <source>Select &amp;All</source>
         <translation>Žymėti vis&amp;ką</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="517"/>
+        <location filename="../main-win.ui" line="500"/>
         <source>Ctrl+A</source>
         <translation>Ctrl+A</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="522"/>
+        <location filename="../main-win.ui" line="505"/>
         <source>De&amp;select All</source>
         <translation>Nuimti žymėjimą nuo vi&amp;sko</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="525"/>
+        <location filename="../main-win.ui" line="508"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="530"/>
+        <location filename="../main-win.ui" line="513"/>
         <source>Pr&amp;eferences</source>
         <translation>&amp;Nuostatos</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="538"/>
+        <location filename="../main-win.ui" line="521"/>
         <source>&amp;Ascending</source>
         <translation>&amp;Didėjimo tvarka</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="550"/>
+        <location filename="../main-win.ui" line="532"/>
         <source>&amp;Descending</source>
         <translation>&amp;Mažėjimo tvarka</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="562"/>
+        <location filename="../main-win.ui" line="543"/>
         <source>&amp;By File Name</source>
         <translation>&amp;Pagal failo pavadinimą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="570"/>
+        <location filename="../main-win.ui" line="551"/>
         <source>By &amp;Modification Time</source>
         <translation>Pagal &amp;modifikavimo laiką</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="578"/>
+        <location filename="../main-win.ui" line="559"/>
         <source>By C&amp;reation Time</source>
         <translation>Pagal &amp;sukūrimo laiką</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="586"/>
+        <location filename="../main-win.ui" line="567"/>
         <source>By Deletio&amp;n Time</source>
         <translation>Pagal iš&amp;trynimo laiką</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="594"/>
+        <location filename="../main-win.ui" line="575"/>
         <source>By File &amp;Type</source>
         <translation>Pagal failo &amp;tipą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="602"/>
+        <location filename="../main-win.ui" line="583"/>
         <source>By &amp;Owner</source>
         <translation>Pagal &amp;savininką</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="610"/>
+        <location filename="../main-win.ui" line="591"/>
         <source>By &amp;Group</source>
         <translation>Pagal &amp;grupę</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="618"/>
+        <location filename="../main-win.ui" line="599"/>
         <source>&amp;Folder First</source>
         <translation>P&amp;irmiausia aplankai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="626"/>
+        <location filename="../main-win.ui" line="607"/>
         <source>&amp;Hidden Last</source>
         <translation>&amp;Paslėptus rodyti paskiausiai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="939"/>
+        <location filename="../main-win.ui" line="903"/>
         <source>Shift+F2</source>
         <translation>Shift+F2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1027"/>
+        <location filename="../main-win.ui" line="990"/>
         <source>Preserve Settings Recursively from &amp;Here</source>
         <translation>Nuo čia, išsaugoti nustatymus &amp;rekursyviai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1032"/>
+        <location filename="../main-win.ui" line="995"/>
         <source>&amp;Go to Source of Inherited Settings</source>
         <translation>&amp;Pereiti prie paveldėtų nustatymų šaltinio</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1037"/>
+        <location filename="../main-win.ui" line="1000"/>
         <source>&amp;Remove Settings of Nonexistent Folders</source>
         <translation>Ša&amp;linti aplankų, kurių nėra, nustatymus</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1045"/>
+        <location filename="../main-win.ui" line="1008"/>
         <source>&amp;Clear</source>
         <translation>Iš&amp;valyti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="679"/>
+        <location filename="../main-win.ui" line="657"/>
         <source>Ctrl+Shift+A</source>
         <translation>Ctrl+Shift+A</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="740"/>
+        <location filename="../main-win.ui" line="714"/>
         <source>&amp;Case Sensitive</source>
         <translation>&amp;Skirti raidžių dydį</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="748"/>
+        <location filename="../main-win.ui" line="722"/>
         <source>By File &amp;Size</source>
         <translation>Pagal failo &amp;dydį</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="757"/>
+        <location filename="../main-win.ui" line="730"/>
         <source>&amp;Close Window</source>
         <translation>&amp;Užverti langą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="760"/>
+        <location filename="../main-win.ui" line="733"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="782"/>
+        <location filename="../main-win.ui" line="754"/>
         <source>Open Tab in &amp;Root Instance</source>
         <translation>Atverti kortelę ša&amp;knies egzemplioriuje</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="796"/>
+        <location filename="../main-win.ui" line="767"/>
         <source>&amp;Folder</source>
         <translation>&amp;Aplankas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="808"/>
+        <location filename="../main-win.ui" line="778"/>
         <source>&amp;Blank File</source>
         <translation>&amp;Tuščias failas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="899"/>
+        <location filename="../main-win.ui" line="865"/>
         <source>Preserve Settings for &amp;This Folder</source>
         <translation>Išsaugoti š&amp;io aplanko nustatymus</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="944"/>
+        <location filename="../main-win.ui" line="908"/>
         <source>&amp;Show/Focus Filter Bar</source>
         <translation>&amp;Rodyti/Fokusuoti filtro juostą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="947"/>
+        <location filename="../main-win.ui" line="911"/>
         <source>Show Filter Bar</source>
         <translation>Rodyti filtro juostą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="950"/>
+        <location filename="../main-win.ui" line="914"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="958"/>
+        <location filename="../main-win.ui" line="922"/>
         <source>S&amp;plit View</source>
         <translation>Suskai&amp;dytas rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="961"/>
+        <location filename="../main-win.ui" line="925"/>
         <source>Split View</source>
         <translation>Suskaidytas rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="964"/>
+        <location filename="../main-win.ui" line="928"/>
         <source>F6</source>
         <translation>F6</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="969"/>
+        <location filename="../main-win.ui" line="933"/>
         <source>&amp;Copy Full Path</source>
         <translation>&amp;Kopijuoti pilną kelią</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="976"/>
+        <location filename="../main-win.ui" line="939"/>
         <source>Ctrl+Shift+C</source>
         <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="987"/>
+        <location filename="../main-win.ui" line="950"/>
         <source>Show Thumb&amp;nails</source>
         <translation>Rodyti &amp;miniatiūras</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="990"/>
+        <location filename="../main-win.ui" line="953"/>
         <source>Show Thumbnails</source>
         <translation>Rodyti miniatiūras</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="998"/>
+        <location filename="../main-win.ui" line="961"/>
         <source>S&amp;ide Pane</source>
         <translation>Š&amp;oninis polangis</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1001"/>
+        <location filename="../main-win.ui" line="964"/>
         <source>F9</source>
         <translation>F9</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1006"/>
+        <location filename="../main-win.ui" line="969"/>
         <source>Hidden &amp;Shortcuts</source>
         <translation>Paslėpti &amp;spartieji klavišai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1011"/>
+        <location filename="../main-win.ui" line="974"/>
         <source>Open Tab in &amp;Admin Mode</source>
         <translation>Atverti kortelę &amp;administratoriaus veiksenoje</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1016"/>
-        <location filename="../main-win.ui" line="1019"/>
+        <location filename="../main-win.ui" line="979"/>
+        <location filename="../main-win.ui" line="982"/>
         <source>Create Launcher</source>
         <translation>Sukurti paleidyklę</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="834"/>
+        <location filename="../main-win.ui" line="803"/>
         <source>Ctrl+B</source>
         <translation>Ctrl+B</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="929"/>
+        <location filename="../main-win.ui" line="894"/>
         <source>&amp;Bulk Rename</source>
         <translation>&amp;Masinis pervadinimas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="936"/>
+        <location filename="../main-win.ui" line="900"/>
         <source>Bulk Rename</source>
         <translation>Masinis pervadinimas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="851"/>
+        <location filename="../main-win.ui" line="819"/>
         <source>Close &amp;previous tabs</source>
         <translation>Užverti ankstesnes ko&amp;rteles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="831"/>
+        <location filename="../main-win.ui" line="800"/>
         <source>Permanent &amp;filter bar</source>
         <translation>Nuolatinė &amp;filtro juosta</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="839"/>
+        <location filename="../main-win.ui" line="808"/>
         <source>&amp;Clear All Filters</source>
         <translation>&amp;Išvalyti visus filtrus</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="842"/>
+        <location filename="../main-win.ui" line="811"/>
         <source>Ctrl+Shift+K</source>
         <translation>Ctrl+Shift+K</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="860"/>
+        <location filename="../main-win.ui" line="827"/>
         <source>Close &amp;next tabs</source>
         <translation>Užverti ki&amp;tas korteles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="908"/>
+        <location filename="../main-win.ui" line="873"/>
         <source>Connect to &amp;Server</source>
         <translation>Prisijungti prie &amp;serverio</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="916"/>
+        <location filename="../main-win.ui" line="881"/>
         <source>&amp;Location</source>
         <translation>&amp;Vieta</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="924"/>
+        <location filename="../main-win.ui" line="889"/>
         <source>&amp;Path Buttons</source>
         <translation>Kelio &amp;mygtukai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="865"/>
+        <location filename="../main-win.ui" line="832"/>
         <source>Close &amp;other tabs</source>
         <translation>Užverti &amp;kitas korteles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="873"/>
+        <location filename="../main-win.ui" line="840"/>
         <source>&amp;Menu bar</source>
         <translation>&amp;Meniu juosta</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="876"/>
+        <location filename="../main-win.ui" line="843"/>
         <source>Menu bar</source>
         <translation>Meniu juosta</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="879"/>
+        <location filename="../main-win.ui" line="846"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="888"/>
-        <location filename="../main-win.ui" line="891"/>
+        <location filename="../main-win.ui" line="854"/>
+        <location filename="../main-win.ui" line="857"/>
         <source>Menu</source>
         <translation>Meniu</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="635"/>
+        <location filename="../main-win.ui" line="615"/>
         <source>New &amp;Tab</source>
         <translation>Nauja &amp;kortelė</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="164"/>
+        <location filename="../main-win.ui" line="162"/>
         <source>&amp;Customized View Settings</source>
         <translation>&amp;Tinkinto rodinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="638"/>
+        <location filename="../main-win.ui" line="618"/>
         <source>New Tab</source>
         <translation>Nauja kortelė</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="641"/>
+        <location filename="../main-win.ui" line="621"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="650"/>
+        <location filename="../main-win.ui" line="629"/>
         <source>Go &amp;Back</source>
         <translation>At&amp;gal</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="653"/>
+        <location filename="../main-win.ui" line="632"/>
         <source>Go Back</source>
         <translation>Atgal</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="656"/>
+        <location filename="../main-win.ui" line="635"/>
         <source>Alt+Left</source>
         <translation>Alt+Kairėn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="665"/>
+        <location filename="../main-win.ui" line="643"/>
         <source>Go &amp;Forward</source>
         <translation>&amp;Pirmyn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="668"/>
+        <location filename="../main-win.ui" line="646"/>
         <source>Go Forward</source>
         <translation>Pirmyn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="671"/>
+        <location filename="../main-win.ui" line="649"/>
         <source>Alt+Right</source>
         <translation>Alt+Dešinėn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="676"/>
+        <location filename="../main-win.ui" line="654"/>
         <source>&amp;Invert Selection</source>
         <translation>&amp;Invertuoti žymėjimą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="688"/>
+        <location filename="../main-win.ui" line="665"/>
         <source>&amp;Delete</source>
         <translation>Iš&amp;trinti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="691"/>
+        <location filename="../main-win.ui" line="668"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="696"/>
+        <location filename="../main-win.ui" line="673"/>
         <source>&amp;Rename</source>
         <translation>Pe&amp;rvadinti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="703"/>
+        <location filename="../main-win.ui" line="679"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="712"/>
+        <location filename="../main-win.ui" line="687"/>
         <source>C&amp;lose Tab</source>
         <translation>&amp;Užverti kortelę</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="715"/>
+        <location filename="../main-win.ui" line="690"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="724"/>
+        <location filename="../main-win.ui" line="698"/>
         <source>File &amp;Properties</source>
         <translation>Failo &amp;savybės</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="727"/>
+        <location filename="../main-win.ui" line="701"/>
         <source>Alt+Return</source>
         <translation>Alt+Return</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="732"/>
+        <location filename="../main-win.ui" line="706"/>
         <source>&amp;Folder Properties</source>
         <translation>Aplanko sa&amp;vybės</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="765"/>
+        <location filename="../main-win.ui" line="738"/>
         <source>Edit Bookmarks</source>
         <translation>Redaguoti žymeles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="774"/>
+        <location filename="../main-win.ui" line="746"/>
         <source>Open &amp;Terminal</source>
         <translation>Atverti &amp;terminalą</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="777"/>
+        <location filename="../main-win.ui" line="749"/>
         <source>F4</source>
         <translation>F4</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="787"/>
+        <location filename="../main-win.ui" line="759"/>
         <source>&amp;Edit Bookmarks</source>
         <translation>R&amp;edaguoti žymeles</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="799"/>
+        <location filename="../main-win.ui" line="770"/>
         <source>Ctrl+Shift+N</source>
         <translation>Ctrl+Shift+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="811"/>
+        <location filename="../main-win.ui" line="781"/>
         <source>Ctrl+Alt+N</source>
         <translation>Ctrl+Alt+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="816"/>
+        <location filename="../main-win.ui" line="786"/>
         <source>&amp;Find Files</source>
         <translation>&amp;Rasti failus</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="823"/>
+        <location filename="../main-win.ui" line="792"/>
         <source>F3</source>
         <translation>F3</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="70"/>
+        <location filename="../main-win.ui" line="69"/>
         <source>&amp;File</source>
         <translation>&amp;Failas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="74"/>
+        <location filename="../main-win.ui" line="73"/>
         <source>C&amp;reate New</source>
         <translation>Suku&amp;rti naują</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="102"/>
+        <location filename="../main-win.ui" line="100"/>
         <source>&amp;Help</source>
         <translation>Ž&amp;inynas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="109"/>
-        <location filename="../main-win.ui" line="133"/>
+        <location filename="../main-win.ui" line="107"/>
+        <location filename="../main-win.ui" line="131"/>
         <source>&amp;View</source>
         <translation>&amp;Rodinys</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="113"/>
+        <location filename="../main-win.ui" line="111"/>
         <source>&amp;Sorting</source>
         <translation>Ri&amp;kiavimas</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="189"/>
+        <location filename="../main-win.ui" line="187"/>
         <source>&amp;Edit</source>
         <translation>&amp;Taisa</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="208"/>
+        <location filename="../main-win.ui" line="206"/>
         <source>&amp;Bookmarks</source>
         <translation>Ž&amp;ymelės</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="215"/>
+        <location filename="../main-win.ui" line="213"/>
         <source>&amp;Go</source>
         <translation>&amp;Eiti</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="257"/>
+        <location filename="../main-win.ui" line="255"/>
         <source>Main Toolbar</source>
         <translation>Pagrindinė įrankių juosta</translation>
     </message>
@@ -1513,101 +1513,101 @@ numatytoji failų tvarkytuvė.</translation>
 <context>
     <name>PCManFM::Application</name>
     <message>
-        <location filename="../application.cpp" line="190"/>
+        <location filename="../application.cpp" line="191"/>
         <source>Name of configuration profile</source>
         <translation>Konfigūracijos profilio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="190"/>
+        <location filename="../application.cpp" line="191"/>
         <source>PROFILE</source>
         <translation>PROFILIS</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="193"/>
+        <location filename="../application.cpp" line="194"/>
         <source>Run PCManFM-Qt as a daemon</source>
         <translation>Paleisti PCManFM-Qt kaip tarnybą</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="196"/>
+        <location filename="../application.cpp" line="197"/>
         <source>Quit PCManFM-Qt</source>
         <translation>Išeiti iš PCManFM-Qt</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="199"/>
+        <location filename="../application.cpp" line="200"/>
         <source>Launch desktop manager</source>
         <translation>Paleisti darbalaukio tvarkytuvę</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="202"/>
+        <location filename="../application.cpp" line="203"/>
         <source>Turn off desktop manager if it&apos;s running</source>
         <translation>Išjungti darbalaukio tvarkytuvę, jeigu ji yra vykdoma</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="205"/>
+        <location filename="../application.cpp" line="206"/>
         <source>Open desktop preference dialog on the page with the specified name</source>
         <translation>Atverti darbalaukio nuostatų dialogą nurodyto pavadinimo puslapyje</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="205"/>
-        <location filename="../application.cpp" line="205"/>
-        <location filename="../application.cpp" line="220"/>
-        <location filename="../application.cpp" line="220"/>
+        <location filename="../application.cpp" line="206"/>
+        <location filename="../application.cpp" line="206"/>
+        <location filename="../application.cpp" line="221"/>
+        <location filename="../application.cpp" line="221"/>
         <source>NAME</source>
         <translation>PAVADINIMAS</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="208"/>
+        <location filename="../application.cpp" line="209"/>
         <source>Open new window</source>
         <translation>Atverti naują langą</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="211"/>
+        <location filename="../application.cpp" line="212"/>
         <source>Open Find Files utility</source>
         <translation>Atverti failų paieškos paslaugų programą</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="215"/>
         <source>Set desktop wallpaper from image FILE</source>
         <translation>Nustatyti darbalaukio foną iš paveikslo FAILO</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="215"/>
         <source>FILE</source>
         <translation>FAILAS</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="217"/>
+        <location filename="../application.cpp" line="218"/>
         <source>MODE</source>
         <translation>VEIKSENA</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="217"/>
+        <location filename="../application.cpp" line="218"/>
         <source>Set mode of desktop wallpaper. MODE=(%1)</source>
         <translation>Nustatyti darbalaukio fono veikseną. VEIKSENA=(%1)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="220"/>
+        <location filename="../application.cpp" line="221"/>
         <source>Open Preferences dialog on the page with the specified name</source>
         <translation>Atverti nuostatų dialogą nurodyto pavadinimo puslapyje</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="224"/>
         <source>Files or directories to open</source>
         <translation>Failai ar katalogai, kuriuos atverti</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="224"/>
         <source>[FILE1, FILE2,...]</source>
         <translation>[FAILAS1, FAILAS2,...]</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="661"/>
-        <location filename="../application.cpp" line="666"/>
+        <location filename="../application.cpp" line="668"/>
+        <location filename="../application.cpp" line="673"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="666"/>
+        <location filename="../application.cpp" line="673"/>
         <source>Terminal emulator is not set.</source>
         <translation>Terminalo emuliatorius nėra nustatytas.</translation>
     </message>
@@ -1752,12 +1752,12 @@ numatytoji failų tvarkytuvė.</translation>
 <context>
     <name>PCManFM::DesktopWindow</name>
     <message>
-        <location filename="../desktopwindow.cpp" line="327"/>
+        <location filename="../desktopwindow.cpp" line="337"/>
         <source>Trash (One item)</source>
         <translation>Šiukšlinė (Vienas elementas)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../desktopwindow.cpp" line="330"/>
+        <location filename="../desktopwindow.cpp" line="340"/>
         <source>Trash (%Ln items)</source>
         <translation>
             <numerusform>Šiukšlinė (%Ln elementas)</numerusform>
@@ -1766,48 +1766,48 @@ numatytoji failų tvarkytuvė.</translation>
         </translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="334"/>
+        <location filename="../desktopwindow.cpp" line="344"/>
         <source>Trash (Empty)</source>
         <translation>Šiukšlinė (Tuščia)</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="369"/>
+        <location filename="../desktopwindow.cpp" line="379"/>
         <source>Computer</source>
         <translation>Kompiuteris</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="383"/>
+        <location filename="../desktopwindow.cpp" line="393"/>
         <source>Network</source>
         <translation>Tinklas</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1046"/>
+        <location filename="../desktopwindow.cpp" line="1056"/>
         <source>Open</source>
         <translation>Atverti</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1052"/>
-        <location filename="../desktopwindow.cpp" line="1092"/>
+        <location filename="../desktopwindow.cpp" line="1062"/>
+        <location filename="../desktopwindow.cpp" line="1102"/>
         <source>Stic&amp;k to Current Position</source>
         <translation>Pritvirtinti prie esamos &amp;vietos</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1060"/>
+        <location filename="../desktopwindow.cpp" line="1070"/>
         <source>Empty Trash</source>
         <translation>Išvalyti šiukšlinę</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1126"/>
+        <location filename="../desktopwindow.cpp" line="1136"/>
         <source>Hide Desktop Items</source>
         <translation>Slėpti darbalaukio elementus</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1132"/>
+        <location filename="../desktopwindow.cpp" line="1142"/>
         <source>Create Launcher</source>
         <translation>Sukurti paleidyklę</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1135"/>
+        <location filename="../desktopwindow.cpp" line="1145"/>
         <source>Desktop Preferences</source>
         <translation>Darbalaukio nuostatos</translation>
     </message>
@@ -1815,7 +1815,7 @@ numatytoji failų tvarkytuvė.</translation>
 <context>
     <name>PCManFM::FilterBar</name>
     <message>
-        <location filename="../tabpage.cpp" line="95"/>
+        <location filename="../tabpage.cpp" line="94"/>
         <source>Filter:</source>
         <translation>Filtras:</translation>
     </message>
@@ -1823,7 +1823,7 @@ numatytoji failų tvarkytuvė.</translation>
 <context>
     <name>PCManFM::FilterEdit</name>
     <message>
-        <location filename="../tabpage.cpp" line="65"/>
+        <location filename="../tabpage.cpp" line="64"/>
         <source>Clear text (Ctrl+K or Esc)</source>
         <translation>Išvalyti tekstą (Ctrl+K arba Esc)</translation>
     </message>
@@ -1836,55 +1836,65 @@ numatytoji failų tvarkytuvė.</translation>
         <translation>Šaknies egzempliorius</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="776"/>
+        <location filename="../mainwindow.cpp" line="804"/>
         <source>Hide menu bar</source>
         <translation>Slėpti meniu juostą</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="777"/>
+        <location filename="../mainwindow.cpp" line="805"/>
         <source>This will hide the menu bar completely, use Ctrl+M to show it again.</source>
         <translation>Tai visiškai paslėps meniu juostą, naudokite Ctrl+M, kad ji vėl būtų parodyta.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1223"/>
+        <location filename="../mainwindow.cpp" line="1251"/>
         <source>Version: %1</source>
         <translation>Versija: %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="175"/>
-        <location filename="../mainwindow.cpp" line="2193"/>
+        <location filename="../mainwindow.cpp" line="2238"/>
         <source>&amp;Move to Trash</source>
         <translation>&amp;Perkelti į šiukšlinę</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="175"/>
-        <location filename="../mainwindow.cpp" line="2193"/>
+        <location filename="../mainwindow.cpp" line="2238"/>
         <source>&amp;Delete</source>
         <translation>&amp;Ištrinti</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2029"/>
+        <location filename="../mainwindow.cpp" line="205"/>
+        <source>Searching…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="220"/>
+        <source>Stop searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="2074"/>
         <source>Customized View Settings</source>
         <translation>Tinkinto rodinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2300"/>
-        <location filename="../mainwindow.cpp" line="2308"/>
+        <location filename="../mainwindow.cpp" line="2345"/>
+        <location filename="../mainwindow.cpp" line="2353"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2308"/>
+        <location filename="../mainwindow.cpp" line="2353"/>
         <source>Switch user command is not set.</source>
         <translation>Naudotojo perjungimo komanda nėra nustatyta.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2399"/>
+        <location filename="../mainwindow.cpp" line="2444"/>
         <source>Cleaning Folder Settings</source>
         <translation>Aplanko nustatymų išvalymas</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2400"/>
+        <location filename="../mainwindow.cpp" line="2445"/>
         <source>Do you want to remove settings of nonexistent folders?
 They might be useful if those folders are created again.</source>
         <translation>Ar norite pašalinti aplankų, kurių nėra, nustatymus?
@@ -1927,47 +1937,56 @@ Jie gali praversti tuo atveju, jeigu aplankai bus sukurti iš naujo.</translatio
 <context>
     <name>PCManFM::TabPage</name>
     <message>
-        <location filename="../tabpage.cpp" line="453"/>
+        <location filename="../tabpage.cpp" line="465"/>
         <source>Search Results</source>
         <translation>Paieškos rezultatai</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="456"/>
+        <location filename="../tabpage.cpp" line="468"/>
         <source>Applications</source>
         <translation>Programos</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="460"/>
+        <location filename="../tabpage.cpp" line="472"/>
         <source>Computer</source>
         <translation>Kompiuteris</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="463"/>
+        <location filename="../tabpage.cpp" line="475"/>
         <source>Network</source>
         <translation>Tinklas</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="466"/>
+        <location filename="../tabpage.cpp" line="478"/>
         <source>Trash</source>
         <translation>Šiukšlinė</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="472"/>
+        <location filename="../tabpage.cpp" line="484"/>
         <source>Desktop</source>
         <translation>Darbalaukis</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="564"/>
+        <location filename="../tabpage.cpp" line="581"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="573"/>
+        <location filename="../tabpage.cpp" line="590"/>
         <source>Free space: %1 (Total: %2)</source>
         <translation>Laisva vieta: %1 (Viso: %2)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="590"/>
+        <location filename="../tabpage.cpp" line="617"/>
+        <source>%n item(s) found</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../tabpage.cpp" line="618"/>
         <source>%n item(s)</source>
         <translation>
             <numerusform>%n elementas</numerusform>
@@ -1976,7 +1995,7 @@ Jie gali praversti tuo atveju, jeigu aplankai bus sukurti iš naujo.</translatio
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="592"/>
+        <location filename="../tabpage.cpp" line="620"/>
         <source> (%n hidden)</source>
         <translation>
             <numerusform> (%n paslėptas)</numerusform>
@@ -1985,14 +2004,14 @@ Jie gali praversti tuo atveju, jeigu aplankai bus sukurti iš naujo.</translatio
         </translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="597"/>
-        <location filename="../tabpage.cpp" line="798"/>
-        <location filename="../tabpage.cpp" line="812"/>
+        <location filename="../tabpage.cpp" line="625"/>
+        <location filename="../tabpage.cpp" line="838"/>
+        <location filename="../tabpage.cpp" line="852"/>
         <source>Link to</source>
         <translation>Nuoroda į</translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="824"/>
+        <location filename="../tabpage.cpp" line="864"/>
         <source>%n item(s) selected</source>
         <translation>
             <numerusform>Pažymėtas %n elementas</numerusform>
@@ -2439,7 +2458,17 @@ ir gali būti bet kokia tinkintų parinkčių grupė.</translation>
         <translation>Išvalyti paieškos istoriją</translation>
     </message>
     <message>
-        <location filename="../preferences.ui" line="1028"/>
+        <location filename="../preferences.ui" line="1000"/>
+        <source>Does not work with the detailed list mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../preferences.ui" line="1003"/>
+        <source>Use incremental listing when searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../preferences.ui" line="1038"/>
         <source>Application restart is needed for changes to take effect.</source>
         <translation>Tam, kad įsigaliotų pakeitimai, reikia paleisti programą iš naujo.</translation>
     </message>
@@ -2605,7 +2634,7 @@ lxsudo dbus-run-session -- %s</translation>
         <location filename="../bulkrename.cpp" line="281"/>
         <location filename="../bulkrename.cpp" line="318"/>
         <location filename="../bulkrename.cpp" line="322"/>
-        <location filename="../tabpage.cpp" line="1152"/>
+        <location filename="../tabpage.cpp" line="1192"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
@@ -2634,7 +2663,7 @@ lxsudo dbus-run-session -- %s</translation>
         <translation>Neteisingas reguliarusis reiškinys.</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="1152"/>
+        <location filename="../tabpage.cpp" line="1192"/>
         <source>Cannot open as Admin.</source>
         <translation>Nepavyko atverti administratoriaus teisėmis.</translation>
     </message>

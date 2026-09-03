@@ -9,17 +9,17 @@
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="25"/>
+        <location filename="../about.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="48"/>
+        <location filename="../about.ui" line="46"/>
         <source>Lightweight file manager</source>
         <translation>Trình quản lý tập tin nhẹ</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="122"/>
+        <location filename="../about.ui" line="120"/>
         <source>Programming:
 * Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
 </source>
@@ -28,7 +28,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../about.ui" line="144"/>
+        <location filename="../about.ui" line="142"/>
         <source>PCManFM-Qt File Manager
 
 Copyright (C) 2009 - 2014 洪任諭 (Hong Jen Yee)
@@ -65,22 +65,22 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="113"/>
+        <location filename="../about.ui" line="111"/>
         <source>Authors</source>
         <translation>Tác giả</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="58"/>
+        <location filename="../about.ui" line="56"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt&quot;&gt;https://github.com/lxqt/pcmanfm-qt&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt&quot;&gt;https://github.com/lxqt/pcmanfm-qt&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="74"/>
+        <location filename="../about.ui" line="72"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wiki: &lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt/wiki&quot;&gt;https://github.com/lxqt/pcmanfm-qt/wiki&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wiki: &lt;a href=&quot;https://github.com/lxqt/pcmanfm-qt/wiki&quot;&gt;https://github.com/lxqt/pcmanfm-qt/wiki&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../about.ui" line="135"/>
+        <location filename="../about.ui" line="133"/>
         <source>License</source>
         <translation>Giấy phép</translation>
     </message>
@@ -93,22 +93,22 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation>Phương tiện lưu trữ có thể tháo rời đã được cắm vào</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="33"/>
+        <location filename="../autorun.ui" line="32"/>
         <source>&lt;b&gt;Removable medium is inserted&lt;/b&gt;</source>
         <translation>&lt;b&gt;Phương tiện lưu trữ có thể tháo rời đã được cắm vào&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="40"/>
+        <location filename="../autorun.ui" line="39"/>
         <source>Type of medium:</source>
         <translation>Kiểu của phương tiện lưu trữ:</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="47"/>
+        <location filename="../autorun.ui" line="46"/>
         <source>Detecting...</source>
         <translation>Đang nhận dạng...</translation>
     </message>
     <message>
-        <location filename="../autorun.ui" line="56"/>
+        <location filename="../autorun.ui" line="55"/>
         <source>Please select the action you want to perform:</source>
         <translation>Vui lòng chọn hành động bạn muốn thực hiện:</translation>
     </message>
@@ -237,22 +237,22 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation>Tạo Trình khởi chạy</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="38"/>
+        <location filename="../desktopentrydialog.ui" line="37"/>
         <source>Name:</source>
         <translation>Tên:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="45"/>
+        <location filename="../desktopentrydialog.ui" line="44"/>
         <source>Specific name of this launcher.</source>
         <translation>Tên cụ thể của trình khởi chạy này.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="58"/>
+        <location filename="../desktopentrydialog.ui" line="57"/>
         <source>Description:</source>
         <translation>Mô tả:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="65"/>
+        <location filename="../desktopentrydialog.ui" line="64"/>
         <source>A short description or generic name, like &quot;Web Browser&quot; or &quot;Home Directory&quot;.
 
 It can be left empty.</source>
@@ -261,12 +261,12 @@ It can be left empty.</source>
 Nó có thể để trống.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="77"/>
+        <location filename="../desktopentrydialog.ui" line="76"/>
         <source>Comment:</source>
         <translation>Bình luận:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="84"/>
+        <location filename="../desktopentrydialog.ui" line="83"/>
         <source>A short comment.
 
 It can be left empty.</source>
@@ -275,79 +275,79 @@ It can be left empty.</source>
 Nó có thể để trống.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="117"/>
+        <location filename="../desktopentrydialog.ui" line="116"/>
         <source>Command:</source>
         <translation>Lệnh:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="133"/>
-        <location filename="../desktopentrydialog.ui" line="164"/>
+        <location filename="../desktopentrydialog.ui" line="132"/>
+        <location filename="../desktopentrydialog.ui" line="163"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="142"/>
+        <location filename="../desktopentrydialog.ui" line="141"/>
         <source>Icon:</source>
         <translation>Biểu tượng:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="151"/>
+        <location filename="../desktopentrydialog.ui" line="150"/>
         <source>Icon to display in file manager, menus, etc.</source>
         <translation>Biểu tượng để hiển thị trong trình quản lý tập tin, trình đơn, v.v.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="173"/>
-        <location filename="../desktopentrydialog.ui" line="183"/>
+        <location filename="../desktopentrydialog.ui" line="172"/>
+        <location filename="../desktopentrydialog.ui" line="182"/>
         <source>Run in terminal?</source>
         <translation>Chạy trong cửa sổ giao diện dòng lệnh?</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="176"/>
+        <location filename="../desktopentrydialog.ui" line="175"/>
         <source>Terminal:</source>
         <translation>Giao diện dòng lệnh:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="186"/>
+        <location filename="../desktopentrydialog.ui" line="185"/>
         <source>Whether the launched program should run in a terminal window.</source>
         <translation>Chương trình đã khởi chạy có nên chạy trong cửa sổ giao diện dòng lệnh hay không.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="190"/>
+        <location filename="../desktopentrydialog.ui" line="189"/>
         <source>No</source>
         <translation>Không</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="195"/>
+        <location filename="../desktopentrydialog.ui" line="194"/>
         <source>Yes</source>
         <translation>Có</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="203"/>
+        <location filename="../desktopentrydialog.ui" line="202"/>
         <source>Type:</source>
         <translation>Kiểu:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="210"/>
+        <location filename="../desktopentrydialog.ui" line="209"/>
         <source>Whether this is a link or executes a command.</source>
         <translation>Có thể là một liên kết hoặc là thực thi một lệnh.</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="214"/>
+        <location filename="../desktopentrydialog.ui" line="213"/>
         <source>Application</source>
         <translation>Ứng dụng</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="219"/>
+        <location filename="../desktopentrydialog.ui" line="218"/>
         <source>Link</source>
         <translation>Liên kết</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="96"/>
+        <location filename="../desktopentrydialog.ui" line="95"/>
         <source>Categories:</source>
         <translation>Danh mục:</translation>
     </message>
     <message>
-        <location filename="../desktopentrydialog.ui" line="103"/>
+        <location filename="../desktopentrydialog.ui" line="102"/>
         <source>Semicolon separated categories in which the entry should be shown if it is used by the DE&apos;s main menu (e.g., when put inside ~/.local/share/applications).
 
 It is needed only when you want to use the created file in the main menu. Otherwise, you could leave it empty.
@@ -596,7 +596,7 @@ are left clicked, even when it is not the default file manager.</source>
         <translation> phút</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="669"/>
+        <location filename="../desktop-preferences.ui" line="666"/>
         <source>Do not show file tooltips</source>
         <translation type="unfinished">Không hiển thị chú giải cho tập tin</translation>
     </message>
@@ -621,17 +621,17 @@ are left clicked, even when it is not the default file manager.</source>
         <translation>Thư mục gốc</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="637"/>
+        <location filename="../desktop-preferences.ui" line="636"/>
         <source>Trash</source>
         <translation>Thùng rác</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="648"/>
+        <location filename="../desktop-preferences.ui" line="646"/>
         <source>Computer</source>
         <translation>Máy tính</translation>
     </message>
     <message>
-        <location filename="../desktop-preferences.ui" line="659"/>
+        <location filename="../desktop-preferences.ui" line="656"/>
         <source>Network</source>
         <translation>Mạng</translation>
     </message>
@@ -811,700 +811,700 @@ are left clicked, even when it is not the default file manager.</source>
         <translation>Quản lý Tập tin</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="81"/>
+        <location filename="../main-win.ui" line="80"/>
         <source>Recent F&amp;iles</source>
         <translation>Tập tin gần đây (&amp;I)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="143"/>
+        <location filename="../main-win.ui" line="141"/>
         <source>&amp;Toolbars</source>
         <translation>Thanh công cụ (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="150"/>
+        <location filename="../main-win.ui" line="148"/>
         <source>Path &amp;Bar</source>
         <translation>Thanh đường dẫn (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="157"/>
+        <location filename="../main-win.ui" line="155"/>
         <source>&amp;Filtering</source>
         <translation>Bộ lọc (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="232"/>
+        <location filename="../main-win.ui" line="230"/>
         <source>&amp;Tools</source>
         <translation>Công cụ (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="291"/>
+        <location filename="../main-win.ui" line="288"/>
         <source>Go &amp;Up</source>
         <translation>Đi lên (&amp;U)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="294"/>
+        <location filename="../main-win.ui" line="291"/>
         <source>Go Up</source>
         <translation>Đi lên</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="297"/>
+        <location filename="../main-win.ui" line="294"/>
         <source>Alt+Up</source>
         <translation>Alt+Up</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="306"/>
+        <location filename="../main-win.ui" line="302"/>
         <source>&amp;Home</source>
         <translation>Thư mục gốc (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="309"/>
+        <location filename="../main-win.ui" line="305"/>
         <source>Alt+Home</source>
         <translation>Alt+Home</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="318"/>
+        <location filename="../main-win.ui" line="313"/>
         <source>&amp;Reload</source>
         <translation>Tải lại (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="321"/>
+        <location filename="../main-win.ui" line="316"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="330"/>
+        <location filename="../main-win.ui" line="324"/>
         <source>Go</source>
         <translation>Đi</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="339"/>
+        <location filename="../main-win.ui" line="332"/>
         <source>Quit</source>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="348"/>
+        <location filename="../main-win.ui" line="340"/>
         <source>&amp;About</source>
         <translation>Thông tin (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="357"/>
+        <location filename="../main-win.ui" line="348"/>
         <source>&amp;New Window</source>
         <translation>Cửa Sổ Mới (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="360"/>
+        <location filename="../main-win.ui" line="351"/>
         <source>New Window</source>
         <translation>Cửa sổ mới</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="363"/>
+        <location filename="../main-win.ui" line="354"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="371"/>
+        <location filename="../main-win.ui" line="362"/>
         <source>Show &amp;Hidden</source>
         <translation>Hiện thị tập tin ẩn (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="374"/>
+        <location filename="../main-win.ui" line="365"/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="383"/>
+        <location filename="../main-win.ui" line="373"/>
         <source>&amp;Computer</source>
         <translation>Máy tính (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="392"/>
+        <location filename="../main-win.ui" line="381"/>
         <source>&amp;Trash</source>
         <translation>Thùng rác (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="397"/>
+        <location filename="../main-win.ui" line="386"/>
         <source>&amp;Network</source>
         <translation>Mạng (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="406"/>
+        <location filename="../main-win.ui" line="394"/>
         <source>&amp;Desktop</source>
         <translation>Màn hình nền (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="415"/>
+        <location filename="../main-win.ui" line="402"/>
         <source>&amp;Add to Bookmarks</source>
         <translation>Thêm vào Dấu trang (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="420"/>
+        <location filename="../main-win.ui" line="407"/>
         <source>&amp;Applications</source>
         <translation>Ứng dụng (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="425"/>
+        <location filename="../main-win.ui" line="412"/>
         <source>Reload</source>
         <translation>Tải lại</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="433"/>
+        <location filename="../main-win.ui" line="420"/>
         <source>&amp;Icon View</source>
         <translation>Chế độ xem biểu tượng (&amp;I)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="436"/>
+        <location filename="../main-win.ui" line="423"/>
         <source>Ctrl+Shift+1</source>
         <translation>Ctrl+Shift+1</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="444"/>
+        <location filename="../main-win.ui" line="431"/>
         <source>&amp;Compact View</source>
         <translation>Chế độ xem nhỏ gọn (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="447"/>
+        <location filename="../main-win.ui" line="434"/>
         <source>Ctrl+Shift+3</source>
         <translation>Ctrl+Shift+3</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="455"/>
+        <location filename="../main-win.ui" line="442"/>
         <source>&amp;Detailed List</source>
         <translation>Danh sách chi tiết (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="458"/>
+        <location filename="../main-win.ui" line="445"/>
         <source>Ctrl+Shift+4</source>
         <translation>Ctrl+Shift+4</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="466"/>
+        <location filename="../main-win.ui" line="453"/>
         <source>&amp;Thumbnail View</source>
         <translation>Chế độ xem hình thu nhỏ (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="469"/>
+        <location filename="../main-win.ui" line="456"/>
         <source>Ctrl+Shift+2</source>
         <translation>Ctrl+Shift+2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="478"/>
+        <location filename="../main-win.ui" line="464"/>
         <source>Cu&amp;t</source>
         <translation>Cắt (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="481"/>
+        <location filename="../main-win.ui" line="467"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="490"/>
+        <location filename="../main-win.ui" line="475"/>
         <source>&amp;Copy</source>
         <translation>Sao chép (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="493"/>
+        <location filename="../main-win.ui" line="478"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="502"/>
+        <location filename="../main-win.ui" line="486"/>
         <source>&amp;Paste</source>
         <translation>Dán (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="505"/>
+        <location filename="../main-win.ui" line="489"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="514"/>
+        <location filename="../main-win.ui" line="497"/>
         <source>Select &amp;All</source>
         <translation>Chọn tất cả (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="517"/>
+        <location filename="../main-win.ui" line="500"/>
         <source>Ctrl+A</source>
         <translation>Ctrl+A</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="522"/>
+        <location filename="../main-win.ui" line="505"/>
         <source>De&amp;select All</source>
         <translation>Bỏ chọn tất cả (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="525"/>
+        <location filename="../main-win.ui" line="508"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="530"/>
+        <location filename="../main-win.ui" line="513"/>
         <source>Pr&amp;eferences</source>
         <translation>Tùy chỉnh (&amp;E)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="538"/>
+        <location filename="../main-win.ui" line="521"/>
         <source>&amp;Ascending</source>
         <translation>Tăng dần (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="550"/>
+        <location filename="../main-win.ui" line="532"/>
         <source>&amp;Descending</source>
         <translation>Giảm dần (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="562"/>
+        <location filename="../main-win.ui" line="543"/>
         <source>&amp;By File Name</source>
         <translation>Theo Tên Tập tin (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="570"/>
+        <location filename="../main-win.ui" line="551"/>
         <source>By &amp;Modification Time</source>
         <translation>Theo Thời gian Sửa đổi (&amp;M)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="578"/>
+        <location filename="../main-win.ui" line="559"/>
         <source>By C&amp;reation Time</source>
         <translation>Theo Thời gian Tạo (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="586"/>
+        <location filename="../main-win.ui" line="567"/>
         <source>By Deletio&amp;n Time</source>
         <translation>Theo thời gian xóa (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="594"/>
+        <location filename="../main-win.ui" line="575"/>
         <source>By File &amp;Type</source>
         <translation>Theo Kiểu Tập tin (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="602"/>
+        <location filename="../main-win.ui" line="583"/>
         <source>By &amp;Owner</source>
         <translation>Theo chủ sở hữu (&amp;O)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="610"/>
+        <location filename="../main-win.ui" line="591"/>
         <source>By &amp;Group</source>
         <translation>Theo nhóm người dùng (&amp;G)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="618"/>
+        <location filename="../main-win.ui" line="599"/>
         <source>&amp;Folder First</source>
         <translation>Thư mục trên đầu tiên (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="626"/>
+        <location filename="../main-win.ui" line="607"/>
         <source>&amp;Hidden Last</source>
         <translation>Thành phần bị ẩn ở dưới cùng (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="939"/>
+        <location filename="../main-win.ui" line="903"/>
         <source>Shift+F2</source>
         <translation>Shift+F2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1027"/>
+        <location filename="../main-win.ui" line="990"/>
         <source>Preserve Settings Recursively from &amp;Here</source>
         <translation>Giữ nguyên cài đặt kế thừa từ đây (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1032"/>
+        <location filename="../main-win.ui" line="995"/>
         <source>&amp;Go to Source of Inherited Settings</source>
         <translation>Chuyển đến Nguồn của cài đặt kế thừa (&amp;G)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1037"/>
+        <location filename="../main-win.ui" line="1000"/>
         <source>&amp;Remove Settings of Nonexistent Folders</source>
         <translation>Xóa cài đặt của các thư mục không tồn tại (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1045"/>
+        <location filename="../main-win.ui" line="1008"/>
         <source>&amp;Clear</source>
         <translation>Xóa (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="679"/>
+        <location filename="../main-win.ui" line="657"/>
         <source>Ctrl+Shift+A</source>
         <translation>Ctrl+Shift+A</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="740"/>
+        <location filename="../main-win.ui" line="714"/>
         <source>&amp;Case Sensitive</source>
         <translation>Phân biệt chữ hoa/thường (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="748"/>
+        <location filename="../main-win.ui" line="722"/>
         <source>By File &amp;Size</source>
         <translation>Theo Kích thước Tập tin (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="757"/>
+        <location filename="../main-win.ui" line="730"/>
         <source>&amp;Close Window</source>
         <translation>Đóng cửa sổ (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="760"/>
+        <location filename="../main-win.ui" line="733"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="782"/>
+        <location filename="../main-win.ui" line="754"/>
         <source>Open Tab in &amp;Root Instance</source>
         <translation>Mở thẻ trong Tiến trình gốc (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="796"/>
+        <location filename="../main-win.ui" line="767"/>
         <source>&amp;Folder</source>
         <translation>Thư mục (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="808"/>
+        <location filename="../main-win.ui" line="778"/>
         <source>&amp;Blank File</source>
         <translation>Tập tin rỗng (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="899"/>
+        <location filename="../main-win.ui" line="865"/>
         <source>Preserve Settings for &amp;This Folder</source>
         <translation>Giữ nguyên cài đặt cho Thư mục này (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="944"/>
+        <location filename="../main-win.ui" line="908"/>
         <source>&amp;Show/Focus Filter Bar</source>
         <translation>Hiển thị/Tập trung vào thanh bộ lọc (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="947"/>
+        <location filename="../main-win.ui" line="911"/>
         <source>Show Filter Bar</source>
         <translation>Hiển thị thanh bộ lọc</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="950"/>
+        <location filename="../main-win.ui" line="914"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="958"/>
+        <location filename="../main-win.ui" line="922"/>
         <source>S&amp;plit View</source>
         <translation>Chế độ xem chia đôi (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="961"/>
+        <location filename="../main-win.ui" line="925"/>
         <source>Split View</source>
         <translation>Chế độ xem chia đôi</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="964"/>
+        <location filename="../main-win.ui" line="928"/>
         <source>F6</source>
         <translation>F6</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="969"/>
+        <location filename="../main-win.ui" line="933"/>
         <source>&amp;Copy Full Path</source>
         <translation>Sao chép đường dẫn đầy đủ (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="976"/>
+        <location filename="../main-win.ui" line="939"/>
         <source>Ctrl+Shift+C</source>
         <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="987"/>
+        <location filename="../main-win.ui" line="950"/>
         <source>Show Thumb&amp;nails</source>
         <translation>Hiển thị hình thu nhỏ (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="990"/>
+        <location filename="../main-win.ui" line="953"/>
         <source>Show Thumbnails</source>
         <translation>Hiện ảnh thu nhỏ</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="998"/>
+        <location filename="../main-win.ui" line="961"/>
         <source>S&amp;ide Pane</source>
         <translation>Khung bên (&amp;I)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1001"/>
+        <location filename="../main-win.ui" line="964"/>
         <source>F9</source>
         <translation>F9</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1006"/>
+        <location filename="../main-win.ui" line="969"/>
         <source>Hidden &amp;Shortcuts</source>
         <translation>Lối tắt ẩn (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1011"/>
+        <location filename="../main-win.ui" line="974"/>
         <source>Open Tab in &amp;Admin Mode</source>
         <translation>Mở thẻ ở Chế độ quản trị (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="1016"/>
-        <location filename="../main-win.ui" line="1019"/>
+        <location filename="../main-win.ui" line="979"/>
+        <location filename="../main-win.ui" line="982"/>
         <source>Create Launcher</source>
         <translation>Tạo Trình khởi chạy</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="834"/>
+        <location filename="../main-win.ui" line="803"/>
         <source>Ctrl+B</source>
         <translation>Ctrl+B</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="839"/>
+        <location filename="../main-win.ui" line="808"/>
         <source>&amp;Clear All Filters</source>
         <translation>Xóa tất cả bộ lọc (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="842"/>
+        <location filename="../main-win.ui" line="811"/>
         <source>Ctrl+Shift+K</source>
         <translation>Ctrl+Shift+K</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="851"/>
+        <location filename="../main-win.ui" line="819"/>
         <source>Close &amp;previous tabs</source>
         <translation>Đóng các thẻ trước đó (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="860"/>
+        <location filename="../main-win.ui" line="827"/>
         <source>Close &amp;next tabs</source>
         <translation>Đóng các thẻ tiếp theo (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="908"/>
+        <location filename="../main-win.ui" line="873"/>
         <source>Connect to &amp;Server</source>
         <translation>Kết nối tới máy chủ (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="916"/>
+        <location filename="../main-win.ui" line="881"/>
         <source>&amp;Location</source>
         <translation>Vị trí (&amp;L)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="924"/>
+        <location filename="../main-win.ui" line="889"/>
         <source>&amp;Path Buttons</source>
         <translation>Nút đường dẫn (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="929"/>
+        <location filename="../main-win.ui" line="894"/>
         <source>&amp;Bulk Rename</source>
         <translation>Đổi tên hàng loạt (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="936"/>
+        <location filename="../main-win.ui" line="900"/>
         <source>Bulk Rename</source>
         <translation>Đổi tên hàng loạt</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="865"/>
+        <location filename="../main-win.ui" line="832"/>
         <source>Close &amp;other tabs</source>
         <translation>Đóng các thẻ khác (&amp;O)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="831"/>
+        <location filename="../main-win.ui" line="800"/>
         <source>Permanent &amp;filter bar</source>
         <translation>Thanh bộ lọc vĩnh viễn (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="873"/>
+        <location filename="../main-win.ui" line="840"/>
         <source>&amp;Menu bar</source>
         <translation>Thanh trình đơn (&amp;M)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="876"/>
+        <location filename="../main-win.ui" line="843"/>
         <source>Menu bar</source>
         <translation>Thanh trình đơn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="879"/>
+        <location filename="../main-win.ui" line="846"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="888"/>
-        <location filename="../main-win.ui" line="891"/>
+        <location filename="../main-win.ui" line="854"/>
+        <location filename="../main-win.ui" line="857"/>
         <source>Menu</source>
         <translation>Trình đơn</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="635"/>
+        <location filename="../main-win.ui" line="615"/>
         <source>New &amp;Tab</source>
         <translation>Thẻ mới (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="164"/>
+        <location filename="../main-win.ui" line="162"/>
         <source>&amp;Customized View Settings</source>
         <translation>Cài đặt chế độ xem tùy chỉnh (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="638"/>
+        <location filename="../main-win.ui" line="618"/>
         <source>New Tab</source>
         <translation>Thẻ mới</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="641"/>
+        <location filename="../main-win.ui" line="621"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="650"/>
+        <location filename="../main-win.ui" line="629"/>
         <source>Go &amp;Back</source>
         <translation>Quay lại (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="653"/>
+        <location filename="../main-win.ui" line="632"/>
         <source>Go Back</source>
         <translation>Quay lại</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="656"/>
+        <location filename="../main-win.ui" line="635"/>
         <source>Alt+Left</source>
         <translation>Alt+Left</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="665"/>
+        <location filename="../main-win.ui" line="643"/>
         <source>Go &amp;Forward</source>
         <translation>Đi tới (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="668"/>
+        <location filename="../main-win.ui" line="646"/>
         <source>Go Forward</source>
         <translation>Đi tới</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="671"/>
+        <location filename="../main-win.ui" line="649"/>
         <source>Alt+Right</source>
         <translation>Alt+Right</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="676"/>
+        <location filename="../main-win.ui" line="654"/>
         <source>&amp;Invert Selection</source>
         <translation>Đảo ngược lựa chọn (&amp;I)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="688"/>
+        <location filename="../main-win.ui" line="665"/>
         <source>&amp;Delete</source>
         <translation>Xóa (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="691"/>
+        <location filename="../main-win.ui" line="668"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="696"/>
+        <location filename="../main-win.ui" line="673"/>
         <source>&amp;Rename</source>
         <translation>Đổi tên (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="703"/>
+        <location filename="../main-win.ui" line="679"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="712"/>
+        <location filename="../main-win.ui" line="687"/>
         <source>C&amp;lose Tab</source>
         <translation>Đóng thẻ (&amp;L)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="715"/>
+        <location filename="../main-win.ui" line="690"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="724"/>
+        <location filename="../main-win.ui" line="698"/>
         <source>File &amp;Properties</source>
         <translation>Thuộc tính tập tin (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="727"/>
+        <location filename="../main-win.ui" line="701"/>
         <source>Alt+Return</source>
         <translation>Alt+Return</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="732"/>
+        <location filename="../main-win.ui" line="706"/>
         <source>&amp;Folder Properties</source>
         <translation>Thuộc tính thư mục (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="765"/>
+        <location filename="../main-win.ui" line="738"/>
         <source>Edit Bookmarks</source>
         <translation>Chỉnh sửa Dấu trang</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="774"/>
+        <location filename="../main-win.ui" line="746"/>
         <source>Open &amp;Terminal</source>
         <translation>Mở cửa sổ giao diện dòng lệnh (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="777"/>
+        <location filename="../main-win.ui" line="749"/>
         <source>F4</source>
         <translation>F4</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="787"/>
+        <location filename="../main-win.ui" line="759"/>
         <source>&amp;Edit Bookmarks</source>
         <translation>Chỉnh sửa Dấu trang (&amp;E)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="799"/>
+        <location filename="../main-win.ui" line="770"/>
         <source>Ctrl+Shift+N</source>
         <translation>Ctrl+Shift+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="811"/>
+        <location filename="../main-win.ui" line="781"/>
         <source>Ctrl+Alt+N</source>
         <translation>Ctrl+Alt+N</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="816"/>
+        <location filename="../main-win.ui" line="786"/>
         <source>&amp;Find Files</source>
         <translation>Tìm tập tin (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="823"/>
+        <location filename="../main-win.ui" line="792"/>
         <source>F3</source>
         <translation>F3</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="70"/>
+        <location filename="../main-win.ui" line="69"/>
         <source>&amp;File</source>
         <translation>Tập tin (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="74"/>
+        <location filename="../main-win.ui" line="73"/>
         <source>C&amp;reate New</source>
         <translation>Tạo mới (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="102"/>
+        <location filename="../main-win.ui" line="100"/>
         <source>&amp;Help</source>
         <translation>Trợ giúp (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="109"/>
-        <location filename="../main-win.ui" line="133"/>
+        <location filename="../main-win.ui" line="107"/>
+        <location filename="../main-win.ui" line="131"/>
         <source>&amp;View</source>
         <translation>Xem (&amp;V)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="113"/>
+        <location filename="../main-win.ui" line="111"/>
         <source>&amp;Sorting</source>
         <translation>Sắp xếp (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="189"/>
+        <location filename="../main-win.ui" line="187"/>
         <source>&amp;Edit</source>
         <translation>Chỉnh sửa (&amp;E)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="208"/>
+        <location filename="../main-win.ui" line="206"/>
         <source>&amp;Bookmarks</source>
         <translation>Dấu trang (&amp;B)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="215"/>
+        <location filename="../main-win.ui" line="213"/>
         <source>&amp;Go</source>
         <translation>Đi (&amp;G)</translation>
     </message>
     <message>
-        <location filename="../main-win.ui" line="257"/>
+        <location filename="../main-win.ui" line="255"/>
         <source>Main Toolbar</source>
         <translation>Thanh công cụ chính</translation>
     </message>
@@ -1512,101 +1512,101 @@ are left clicked, even when it is not the default file manager.</source>
 <context>
     <name>PCManFM::Application</name>
     <message>
-        <location filename="../application.cpp" line="190"/>
+        <location filename="../application.cpp" line="191"/>
         <source>Name of configuration profile</source>
         <translation>Tên của hồ sơ cấu hình</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="190"/>
+        <location filename="../application.cpp" line="191"/>
         <source>PROFILE</source>
         <translation>PROFILE</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="193"/>
+        <location filename="../application.cpp" line="194"/>
         <source>Run PCManFM-Qt as a daemon</source>
         <translation>Chạy PCManFM-Qt dưới dạng tiến trình nền</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="196"/>
+        <location filename="../application.cpp" line="197"/>
         <source>Quit PCManFM-Qt</source>
         <translation>Thoát PCManFM-Qt</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="199"/>
+        <location filename="../application.cpp" line="200"/>
         <source>Launch desktop manager</source>
         <translation>Khởi chạy trình quản lý màn hình nền</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="202"/>
+        <location filename="../application.cpp" line="203"/>
         <source>Turn off desktop manager if it&apos;s running</source>
         <translation>Tắt trình quản lý màn hình nền nếu nó đang chạy</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="205"/>
+        <location filename="../application.cpp" line="206"/>
         <source>Open desktop preference dialog on the page with the specified name</source>
         <translation>Mở hộp thoại tùy chọn màn hình nền trên trang có tên được chỉ định</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="205"/>
-        <location filename="../application.cpp" line="205"/>
-        <location filename="../application.cpp" line="220"/>
-        <location filename="../application.cpp" line="220"/>
+        <location filename="../application.cpp" line="206"/>
+        <location filename="../application.cpp" line="206"/>
+        <location filename="../application.cpp" line="221"/>
+        <location filename="../application.cpp" line="221"/>
         <source>NAME</source>
         <translation>NAME</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="208"/>
+        <location filename="../application.cpp" line="209"/>
         <source>Open new window</source>
         <translation>Mở cửa sổ mới</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="211"/>
+        <location filename="../application.cpp" line="212"/>
         <source>Open Find Files utility</source>
         <translation>Mở tiện ích Tìm tập tin</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="215"/>
         <source>Set desktop wallpaper from image FILE</source>
         <translation>Đặt hình nền máy tính từ tập tin ảnh</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="215"/>
         <source>FILE</source>
         <translation>FILE</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="217"/>
+        <location filename="../application.cpp" line="218"/>
         <source>MODE</source>
         <translation>MODE</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="217"/>
+        <location filename="../application.cpp" line="218"/>
         <source>Set mode of desktop wallpaper. MODE=(%1)</source>
         <translation>Đặt chế độ cho hình nền máy tính. MODE=(%1)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="220"/>
+        <location filename="../application.cpp" line="221"/>
         <source>Open Preferences dialog on the page with the specified name</source>
         <translation>Mở hộp thoại Tùy chọn trên trang có tên đã chỉ định</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="224"/>
         <source>Files or directories to open</source>
         <translation>Tập tin hoặc Thư mục để mở</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="224"/>
         <source>[FILE1, FILE2,...]</source>
         <translation>[FILE1, FILE2,...]</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="661"/>
-        <location filename="../application.cpp" line="666"/>
+        <location filename="../application.cpp" line="668"/>
+        <location filename="../application.cpp" line="673"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="666"/>
+        <location filename="../application.cpp" line="673"/>
         <source>Terminal emulator is not set.</source>
         <translation>Trình giả lập giao diện dòng lệnh chưa được cài đặt.</translation>
     </message>
@@ -1751,60 +1751,60 @@ are left clicked, even when it is not the default file manager.</source>
 <context>
     <name>PCManFM::DesktopWindow</name>
     <message>
-        <location filename="../desktopwindow.cpp" line="327"/>
+        <location filename="../desktopwindow.cpp" line="337"/>
         <source>Trash (One item)</source>
         <translation>Thùng rác (Một mục)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../desktopwindow.cpp" line="330"/>
+        <location filename="../desktopwindow.cpp" line="340"/>
         <source>Trash (%Ln items)</source>
         <translation>
             <numerusform>Thùng rác (%Ln mục)</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="334"/>
+        <location filename="../desktopwindow.cpp" line="344"/>
         <source>Trash (Empty)</source>
         <translation>Thùng rác (Trống)</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="369"/>
+        <location filename="../desktopwindow.cpp" line="379"/>
         <source>Computer</source>
         <translation>Máy tính</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="383"/>
+        <location filename="../desktopwindow.cpp" line="393"/>
         <source>Network</source>
         <translation>Mạng</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1046"/>
+        <location filename="../desktopwindow.cpp" line="1056"/>
         <source>Open</source>
         <translation>Mở</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1052"/>
-        <location filename="../desktopwindow.cpp" line="1092"/>
+        <location filename="../desktopwindow.cpp" line="1062"/>
+        <location filename="../desktopwindow.cpp" line="1102"/>
         <source>Stic&amp;k to Current Position</source>
         <translation>Giữ nguyên vị trí hiện tại (&amp;K)</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1060"/>
+        <location filename="../desktopwindow.cpp" line="1070"/>
         <source>Empty Trash</source>
         <translation>Dọn sạch thùng rác</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1126"/>
+        <location filename="../desktopwindow.cpp" line="1136"/>
         <source>Hide Desktop Items</source>
         <translation>Ẩn các mục trên màn hình nền</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1132"/>
+        <location filename="../desktopwindow.cpp" line="1142"/>
         <source>Create Launcher</source>
         <translation>Tạo Trình khởi chạy</translation>
     </message>
     <message>
-        <location filename="../desktopwindow.cpp" line="1135"/>
+        <location filename="../desktopwindow.cpp" line="1145"/>
         <source>Desktop Preferences</source>
         <translation>Tùy chọn màn hình nền</translation>
     </message>
@@ -1812,7 +1812,7 @@ are left clicked, even when it is not the default file manager.</source>
 <context>
     <name>PCManFM::FilterBar</name>
     <message>
-        <location filename="../tabpage.cpp" line="95"/>
+        <location filename="../tabpage.cpp" line="94"/>
         <source>Filter:</source>
         <translation>Bộ lọc:</translation>
     </message>
@@ -1820,7 +1820,7 @@ are left clicked, even when it is not the default file manager.</source>
 <context>
     <name>PCManFM::FilterEdit</name>
     <message>
-        <location filename="../tabpage.cpp" line="65"/>
+        <location filename="../tabpage.cpp" line="64"/>
         <source>Clear text (Ctrl+K or Esc)</source>
         <translation>Xóa văn bản (Ctrl+K hoặc Esc)</translation>
     </message>
@@ -1833,55 +1833,65 @@ are left clicked, even when it is not the default file manager.</source>
         <translation>Tiến trình gốc</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="776"/>
+        <location filename="../mainwindow.cpp" line="804"/>
         <source>Hide menu bar</source>
         <translation>Ẩn thanh trình đơn</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="777"/>
+        <location filename="../mainwindow.cpp" line="805"/>
         <source>This will hide the menu bar completely, use Ctrl+M to show it again.</source>
         <translation>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn, sử dụng Ctrl+M để hiển thị lại.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1223"/>
+        <location filename="../mainwindow.cpp" line="1251"/>
         <source>Version: %1</source>
         <translation>Phiên bản: %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="175"/>
-        <location filename="../mainwindow.cpp" line="2193"/>
+        <location filename="../mainwindow.cpp" line="2238"/>
         <source>&amp;Move to Trash</source>
         <translation>Di chuyển vào thùng rác (&amp;M)</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="175"/>
-        <location filename="../mainwindow.cpp" line="2193"/>
+        <location filename="../mainwindow.cpp" line="2238"/>
         <source>&amp;Delete</source>
         <translation>Xóa (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2029"/>
+        <location filename="../mainwindow.cpp" line="205"/>
+        <source>Searching…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="220"/>
+        <source>Stop searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="2074"/>
         <source>Customized View Settings</source>
         <translation>Cài đặt chế độ xem tùy chỉnh</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2300"/>
-        <location filename="../mainwindow.cpp" line="2308"/>
+        <location filename="../mainwindow.cpp" line="2345"/>
+        <location filename="../mainwindow.cpp" line="2353"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2308"/>
+        <location filename="../mainwindow.cpp" line="2353"/>
         <source>Switch user command is not set.</source>
         <translation>Lệnh chuyển đổi người dùng chưa được thiết lập.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2399"/>
+        <location filename="../mainwindow.cpp" line="2444"/>
         <source>Cleaning Folder Settings</source>
         <translation>Xóa cài đặt thư mục</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2400"/>
+        <location filename="../mainwindow.cpp" line="2445"/>
         <source>Do you want to remove settings of nonexistent folders?
 They might be useful if those folders are created again.</source>
         <translation>Bạn có muốn xóa cài đặt của các thư mục không tồn tại không?
@@ -1924,68 +1934,75 @@ Chúng có thể hữu ích nếu những thư mục đó được tạo lại.<
 <context>
     <name>PCManFM::TabPage</name>
     <message>
-        <location filename="../tabpage.cpp" line="453"/>
+        <location filename="../tabpage.cpp" line="465"/>
         <source>Search Results</source>
         <translation>Kết quả tìm kiếm</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="456"/>
+        <location filename="../tabpage.cpp" line="468"/>
         <source>Applications</source>
         <translation>Ứng dụng</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="460"/>
+        <location filename="../tabpage.cpp" line="472"/>
         <source>Computer</source>
         <translation>Máy tính</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="463"/>
+        <location filename="../tabpage.cpp" line="475"/>
         <source>Network</source>
         <translation>Mạng</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="466"/>
+        <location filename="../tabpage.cpp" line="478"/>
         <source>Trash</source>
         <translation>Thùng rác</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="472"/>
+        <location filename="../tabpage.cpp" line="484"/>
         <source>Desktop</source>
         <translation>Màn hình nền</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="564"/>
+        <location filename="../tabpage.cpp" line="581"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="573"/>
+        <location filename="../tabpage.cpp" line="590"/>
         <source>Free space: %1 (Total: %2)</source>
         <translation>Dung lượng trống: %1 (Tổng cộng: %2)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="590"/>
+        <location filename="../tabpage.cpp" line="617"/>
+        <source>%n item(s) found</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../tabpage.cpp" line="618"/>
         <source>%n item(s)</source>
         <translation>
             <numerusform>%n mục</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="592"/>
+        <location filename="../tabpage.cpp" line="620"/>
         <source> (%n hidden)</source>
         <translation>
             <numerusform> (%n mục ẩn)</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="597"/>
-        <location filename="../tabpage.cpp" line="798"/>
-        <location filename="../tabpage.cpp" line="812"/>
+        <location filename="../tabpage.cpp" line="625"/>
+        <location filename="../tabpage.cpp" line="838"/>
+        <location filename="../tabpage.cpp" line="852"/>
         <source>Link to</source>
         <translation>Liên kết đến</translation>
     </message>
     <message numerus="yes">
-        <location filename="../tabpage.cpp" line="824"/>
+        <location filename="../tabpage.cpp" line="864"/>
         <source>%n item(s) selected</source>
         <translation>
             <numerusform>%n mục được chọn</numerusform>
@@ -2427,7 +2444,17 @@ và có thể là bất kỳ nhóm của các tùy chọn được tùy chỉnh.
         <translation>Xóa lịch sử tìm kiếm</translation>
     </message>
     <message>
-        <location filename="../preferences.ui" line="1028"/>
+        <location filename="../preferences.ui" line="1000"/>
+        <source>Does not work with the detailed list mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../preferences.ui" line="1003"/>
+        <source>Use incremental listing when searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../preferences.ui" line="1038"/>
         <source>Application restart is needed for changes to take effect.</source>
         <translation>Cần khởi động lại ứng dụng để các thay đổi có hiệu lực.</translation>
     </message>
@@ -2593,7 +2620,7 @@ lxsudo dbus-run-session -- %s</translation>
         <location filename="../bulkrename.cpp" line="281"/>
         <location filename="../bulkrename.cpp" line="318"/>
         <location filename="../bulkrename.cpp" line="322"/>
-        <location filename="../tabpage.cpp" line="1152"/>
+        <location filename="../tabpage.cpp" line="1192"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -2622,7 +2649,7 @@ lxsudo dbus-run-session -- %s</translation>
         <translation type="unfinished">Biểu thức chính quy không hợp lệ.</translation>
     </message>
     <message>
-        <location filename="../tabpage.cpp" line="1152"/>
+        <location filename="../tabpage.cpp" line="1192"/>
         <source>Cannot open as Admin.</source>
         <translation>Không thể mở với tư cách Quản trị viên.</translation>
     </message>
